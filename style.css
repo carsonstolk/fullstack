@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+
+section {
+    background-color: orange;
+}
+
+section:hover {
+    background-color: red;
+}
